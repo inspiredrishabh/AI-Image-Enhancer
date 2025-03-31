@@ -1,6 +1,6 @@
 # AI Image Enhancer
 
-![AI Image Enhancer Banner](.\src\assets\preview.png)
+![AI Image Enhancer Banner](/src/assets/preview.png)
 
 A powerful web application that uses artificial intelligence to enhance the quality of your images. Upload any image, and the AI will automatically improve its clarity, sharpness, and overall visual appeal.
 
