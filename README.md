@@ -35,7 +35,7 @@ Follow these simple steps to set up the project on your local machine:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/AI-Image-Enhancer.git
+   git clone https://github.com/inspiredrishabh/AI-Image-Enhancer
    cd AI-Image-Enhancer
    ```
 
